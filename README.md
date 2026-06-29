@@ -20,14 +20,6 @@
 
 ---
 
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GiorgiShalamberidze&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
