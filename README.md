@@ -1,15 +1,34 @@
 <h1 align="center">Hi 👋, I'm Giorgi</h1>
-<h3 align="center">AI Automation Builder | Full-Stack Developer | Georgia 🇬🇪</h3>
+
+<h3 align="center">
+  AI Automation Builder | Full-Stack Developer | Georgia 🇬🇪
+</h3>
+
+<p align="center">
+  I build AI-powered automation systems, chatbots, analytics platforms, and modern web applications.
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+* 🤖 Building AI automation and Agentic RAG systems
+* 💬 Working with Messenger and Instagram chatbots
+* 📊 Developing AI-powered call analytics platforms
+* 🛍️ Creating Shopify applications and automations
+* 🚀 Deploying applications with Docker, Railway, and Supabase
+* 🌱 Currently improving my DevOps and system design skills
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,nestjs,express,html,css,bootstrap,tailwind,mongodb,supabase,firebase,docker,linux,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,python,html,css,bootstrap,tailwind,mongodb,supabase,firebase,docker,linux,git,github,figma" />
 </p>
 
 ---
+
 
 ### 📊 GitHub Stats
 
