@@ -15,7 +15,6 @@
 * 🤖 Building AI automation and Agentic RAG systems
 * 💬 Working with Messenger and Instagram chatbots
 * 📊 Developing AI-powered call analytics platforms
-* 🛍️ Creating Shopify applications and automations
 * 🚀 Deploying applications with Docker, Railway, and Supabase
 * 🌱 Currently improving my DevOps and system design skills
 
