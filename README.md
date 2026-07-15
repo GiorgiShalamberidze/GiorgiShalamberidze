@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgi</h1>
 
 <h3 align="center">
-  AI Automation Builder | Full-Stack Developer | Georgia 🇬🇪
+  AI Automation Builder |Junior Full-Stack Developer | Georgia 🇬🇪
 </h3>
 
 <p align="center">
