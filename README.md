@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Giorgi;I+build+AI+systems+that+ship;Automation+%C2%B7+Analytics+%C2%B7+Full-Stack" alt="Typing SVG" />
 
   <p>
-    <b>AI Automation Builder</b> · Full-Stack Developer · Georgia 🇬🇪
+    <b>AI Automation Builder</b> · Junior Full-Stack Developer · Georgia 🇬🇪
   </p>
 
   <p>
@@ -33,40 +33,22 @@
 
 ---
 
-### Featured work
-
-```text
-📞  Statica — AI Call Analytics Platform
-    GeoNet PBX → Node pipeline → Gemini analysis → React dashboard
-    Stack: Node.js · React · TypeScript · Gemini · Supabase · Railway
-
-💬  Messenger / Instagram Automation
-    Production chatbots that handle support & lead flows end-to-end
-    Stack: Node.js · Meta APIs · AI agents
-
-🧠  Agentic RAG Systems
-    Retrieval + tools for grounded answers over company knowledge
-    Stack: TypeScript/Python · vector search · LLM orchestration
-```
-
----
-
 ### Tech I use daily
 
 **Languages & runtime**  
-`TypeScript` `JavaScript` `Python` `Node.js`
+`TypeScript` `JavaScript` `Python` `HTML` `CSS` `Node.js`
 
 **Frontend**  
-`React` `Next.js` `Tailwind` `HTML/CSS`
+`React` `Next.js` `Tailwind` `Bootstrap` `Figma`
 
 **Backend & data**  
 `Express` `NestJS` `Supabase` `MongoDB` `Firebase`
 
 **AI & infra**  
-`Gemini` `RAG` `Docker` `Railway` `Linux` `Git`
+`Gemini` `RAG` `Docker` `Railway` `Linux` `Git` `GitHub`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,python,tailwind,supabase,mongodb,firebase,docker,linux,git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,python,html,css,bootstrap,tailwind,mongodb,supabase,firebase,docker,linux,git,github,figma" alt="Tech stack" />
 </p>
 
 ---
@@ -82,12 +64,12 @@
 ### GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GiorgiShalamberidze&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiShalamberidze&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiorgiShalamberidze&theme=transparent&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" height="165" />
+  <img height="165" src="./profile/streak.svg" alt="GitHub streak" />
 </div>
 
 ---
