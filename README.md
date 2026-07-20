@@ -59,20 +59,6 @@
 - DevOps: CI/CD, observability, safer deploys  
 - Shipping fewer demos — more durable systems  
 
----
-
-### GitHub
-
-<div align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img height="165" src="./profile/streak.svg" alt="GitHub streak" />
-</div>
-
----
 
 <div align="center">
   <sub>
