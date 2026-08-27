@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Giorgi;I+build+AI+systems+that+ship;Automation+%C2%B7+Analytics+%C2%B7+Full-Stack" alt="Typing SVG" />
 
   <p>
-    <b>AI Automation Builder</b> · Junior Full-Stack Developer · Georgia 🇬🇪
+    <b>AI Automation Builder</b> · Full-Stack Developer · Georgia 🇬🇪
   </p>
 
   <p>
